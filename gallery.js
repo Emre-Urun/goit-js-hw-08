@@ -105,3 +105,4 @@ function handleGaleryClick(event) {
 }
 
 gallery.addEventListener("click", handleGaleryClick);
+asd;
