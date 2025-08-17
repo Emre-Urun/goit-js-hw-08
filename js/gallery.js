@@ -99,10 +99,8 @@ function handleGaleryClick(event) {
     }
   }
 
-  // Modal açıldıktan sonra ESC dinleyicisini ekliyoruz.
   instance.show();
   document.addEventListener("keydown", modalClose);
 }
 
 gallery.addEventListener("click", handleGaleryClick);
-asd;
